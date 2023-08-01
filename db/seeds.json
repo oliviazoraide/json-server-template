@@ -1,4 +1,5 @@
-[
+{
+  "books": [
   {
       "title": "The Bell Jar",
       "author": "Sylvia Plath",
@@ -198,5 +199,5 @@
       "title": "The Thirteenth Tale",
       "author": "Diane Setterfield",
       "genre": "Thriller"
-    }
-]
+    }]
+}
